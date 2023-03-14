@@ -1,4 +1,5 @@
 /*Phillip Okon*/
+//Code using threads to stimulataneously read words from a file and analyze them
 #define _OPEN_THREADS
 #include <iostream>
 #include <cstring>
