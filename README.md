@@ -1,1 +1,1 @@
-This Repo is for personal projects and random stuff I decided to work on.
+These are personal projects I worked on over the years cataloged and archived.
