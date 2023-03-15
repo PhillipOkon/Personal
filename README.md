@@ -1,1 +1,1 @@
-This repo is a current proftofolio of my personal projects and endeavors cataloged and archived.
+This repo is a current portfolio of my personal projects and endeavors cataloged and archived.
